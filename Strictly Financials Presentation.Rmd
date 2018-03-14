@@ -1,7 +1,7 @@
 ---
 output: 
-  html_document:
-    df_print: paged
+  github_document:
+  df_print: paged
   pdf_document: default
 
 ---
@@ -14,7 +14,10 @@ knitr::opts_chunk$set(echo = FALSE)
 #How to Dig Up Background on Brokers and Money Managers  
 ###Rob Wells, Ph.D. 
 ####University of Arkansas
-####School of Journalism and Strategic Media  
+####School of Journalism and Strategic Media 
+***  
+
+![ ](images - storage/Uark logo.png)
   
   
       
@@ -27,7 +30,8 @@ Today's Handout and Links
 
 > <http://bit.ly/2FbR6ZS>
 
-
+***  
+***  
 ---
 
 ##Your Database Sherpa
@@ -73,7 +77,8 @@ Will you find a Smoking Gun in BrokerCheck? Maybe. Better to think of it as anot
 
 Chances are, many of your readers aren’t using this. A 2009 study (sponsored by the FINRA Investor Education Foundation): only 15% who used a financial services provider in the last five years claimed to have checked the background, registration, or license of a financial services provider. 
 
-***
+***  
+***  
 
 ---
 ---
@@ -87,7 +92,8 @@ Chances are, many of your readers aren’t using this. A 2009 study (sponsored b
 
 --Records on 637,000 current and former professionals, 4,700 firms. 
 
-***
+***  
+***  
 
 ###SEC’s Investment Adviser Public Disclosure (IAPD)
 ![ ](images - storage/Investment Advisers.jpeg) 
@@ -96,6 +102,7 @@ Chances are, many of your readers aren’t using this. A 2009 study (sponsored b
 
 --441,000 professionals, 45,700 firms
 
+***  
 ***  
 
 
@@ -107,7 +114,8 @@ Chances are, many of your readers aren’t using this. A 2009 study (sponsored b
 
 --50 state regulators
 
-*** 
+***  
+***  
 
 
 ###Certified Financial Planner Board of Standards Inc. (CFP)
@@ -117,7 +125,8 @@ Chances are, many of your readers aren’t using this. A 2009 study (sponsored b
 
 --69,000 professionals
 
-***
+***  
+***  
 
 
 # BrokerCheck
@@ -184,7 +193,8 @@ This may seem like a subtle point but this is how the regulators police the wors
 -- Early stages: Disciplinary complaint represents the initiation of a formal proceeding  
 -- Findings and sanctions imposed in FINRA Decisions may be increased, decreased, modified or reversed  
 
-***
+***  
+***  
 
 ###Background Someone Using BrokerCheck  
 
@@ -211,7 +221,8 @@ This may seem like a subtle point but this is how the regulators police the wors
 
 >**Breach of Fiduciary Duty** – Not putting the client’s interests’ first 
 
-***
+***  
+***  
 ---
 
 ![ ](images - storage/Barred Brokers.jpeg)
@@ -259,7 +270,8 @@ The individuals listed above have a FINRA bar in effect which means FINRA has pe
 --11 firms in 32 years – barely stayed in one place more than three years
 --Barred -->
 
-***
+***  
+***  
 
 ###Examples of stories 
 
@@ -292,6 +304,7 @@ Here’s a quick example of how BrokerCheck can be useful to background a politi
 
 
 ***  
+***   
 
 ---
 ![ ](images - storage/Wash Post - Bales .jpeg)
@@ -303,7 +316,8 @@ Here’s an example of a terrific Washington Post report that used BrokerCheck t
 
 Bales CRD# 2765462
 
-***
+***  
+***  
 ###Contact Former Co-Workers: Work History
 
 ![ ](images - storage/Bales work history.png)
@@ -328,7 +342,19 @@ The Office of Hearing Officers page allows a detailed search of case by violatio
 
 > <http://www.finra.org/industry/oho>
 
-***
+***  
+***   
+
+###Check the Locals  
+
+![ ](images - storage/Check Locals.png)
+> <http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/>  
+
+> Use the advanced search functions to search with your hometown in the box and see how many brokers kick up with disclosures.  
+Story idea: Grab this list and see how many match a campaign contributors list.
+
+***  
+***  
 ![ ](images - storage/Not Perfect.jpeg)
 
 > There's plenty of criticism of BrokerCheck.
@@ -344,7 +370,8 @@ One finding: When a broker-dealer fired a registered broker, BrokerCheck reports
 
 Finra disputed this, saying it will keep details that “implicate investor protection issues” but won't keep information that doesn’t address this. The PIABA also found information about whether a broker was ever under internal review for fraud is not reported by BrokerCheck, but is disclosed by states.
 
-***
+***  
+***  
 ###Reuters Series on BrokerCheck
 ![ ](images - storage/Reuters Finra.png)  
 
@@ -372,7 +399,8 @@ Wall Street Journal reporters Jean Eaglesham and Rob Barry reported about proble
 
 > <https://dealbook.nytimes.com/2013/06/10/a-rise-in-requests-from-brokers-to-wipe-the-slate-clean/>
 
-***
+***  
+***  
 #Arbitration
 
 >Full-Text of Arbitration Filings:
@@ -431,7 +459,8 @@ He's employed at Rapert Financial & Associates, Inc. This is NOT listed in Broke
 
 ![ ](images - storage/Rapert IAPD2.jpeg)
 
-***
+***  
+***  
 We see his business background. How does that play into the legislation he is sponsoring?
 
 ![ ](images - storage/Rapert insurance.jpeg)
@@ -446,13 +475,75 @@ We see his business background. How does that play into the legislation he is sp
 ---
 **So far, no smoking guns but this is an efficient way to gain insight about a state senator’s background.**
 
-###Check the Locals  slide 52
+#State Securities Regulators
+![State securities regulators can kick some ass, but maybe not like Chuck Norris](images - storage/Chuck Norris.jpg)
+---
+***  
+***  
+
+####North American Securities Administrators Association
+>
+-- Always worth checking with state regulators  
+-- Great way to monitor local and national trends  
+
+![This chart shows the significant amount of enforcement activity at the state level. ](images - storage/nasaa stats.jpeg)
+
+***  
+***  
+###Certified Financial Planner Board of Standards Inc. (CFP)
+![ ](images - storage/CFP.jpeg)
+---
+>
+-- CFP ® designation  
+-- Must pass series of exams  
+-- Subject to oversight of Certified Financial Planners Board  
+-- Investor complaints can lead to Certified Financial Planner revocation  
 
 
+####CFP Board website lists revoked planners by state
+![ ](images - storage/CFP Discipline.png)
+
+> <http://www.cfp.net/about-cfp-board/ethics-enforcement/disciplined-individuals-by-state>  
+> ###But the list stops in 2016.
+
+####Search for a Certified Financial Planner 
+![ ](images - storage/CFP search.png
+
+####Your Turn: Search Number of CFP Revocations in Maryland.
+> <http://www.cfp.net/about-cfp-board/ethics-enforcement/disciplined-individuals-by-state>  
+
+####Select one of those individuals with a revoked designation
+> <http://www.letsmakeaplan.org/choose-a-cfp-professional/find-a-cfp-professional?#oname>
 
 
+![ ](images - storage/Greeves.png)
+---
+
+####Example of Disciplinary Record
+![ ](images - storage/Greeves detail.png)
+
+***  
+***  
+
+####Alphabet Soup: Financial Professional Titles
+> “The requirements for obtaining and using these titles vary widely, from rigorous to nothing at all.” -- SEC
+
+> <http://www.finra.org/investors/accredited-designations>
+
+> Many state securities and insurance regulators do not allow financial professionals to use a designation—in particular a "senior" designation—unless it has been accredited by either the American National Standards Institute or the National Commission for Certifying Agencies.  
+
+***  
+***  
 
 
+#Questions?
+
+####Rob Wells
+#####University of Arkansas 
+#####School of Journalism and Strategic Media
+![ ](images - storage/Uark logo.png)
+> rswells@uark.edu
+> @rwells1961
 
 
-## end
+#### end
