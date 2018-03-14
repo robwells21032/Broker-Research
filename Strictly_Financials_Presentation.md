@@ -431,8 +431,9 @@ We see his business background. How does that play into the legislation he is sp
 State Securities Regulators
 ===========================
 
-![State securities regulators can kick some ass, but maybe not like Chuck Norris](images%20-%20storage/Chuck%20Norris.jpg)
---------------------------------------------------------------------------------------------------------------------------
+![](images%20-%20storage/Chuck%20Norris.jpg) State securities regulators can kick some ass, but maybe not like Chuck Norris
+
+------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
