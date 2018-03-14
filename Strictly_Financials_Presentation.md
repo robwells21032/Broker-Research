@@ -19,7 +19,7 @@ How to Dig Up Background on Brokers and Money Managers
 
 Today's Handout and Links
 
-> <http://bit.ly/2FbR6ZS>
+> <http://bit.do/biz-watchdogs>
 
 ------------------------------------------------------------------------
 

@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Today's Handout and Links
 
-> <http://bit.ly/2FbR6ZS>
+> <http://bit.do/biz-watchdogs>
 
 ***  
 ***  
