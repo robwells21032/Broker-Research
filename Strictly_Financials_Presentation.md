@@ -499,7 +499,6 @@ State Securities Regulators
 ### Certified Financial Planner Board of Standards Inc. (CFP)
 
 ![](images%20-%20storage/CFP.jpeg)
-----------------------------------
 
 > -- CFP ® designation
 > -- Must pass series of exams
