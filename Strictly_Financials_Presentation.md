@@ -144,7 +144,7 @@ The BrokerCheck data is dervied from the Central Registration Depository, which 
 
 ------------------------------------------------------------------------
 
-![Credit: Flickr user user Petezin](images%20-%20storage/Madoff%20Headline.png)
+![](images%20-%20storage/Madoff%20Headline.png) Credit: Flickr user Petezin
 
 ![](images%20-%20storage/Madoff%20Employment.jpeg)
 
@@ -176,7 +176,7 @@ This may seem like a subtle point but this is how the regulators police the wors
 > **For Individuals:**
 > -- Broker credentials, current registrations, licenses and exams
 > -- Employment history for the past 10 years
-> -- Any customer disputes or regulatory events on the broker’s record.
+> -- Any customer disputes or regulatory events on the broker’s record
 
 > **These records come with major caveats:**
 > -- The documents available do not all represent final actions
@@ -191,16 +191,29 @@ This may seem like a subtle point but this is how the regulators police the wors
 ### Background Someone Using BrokerCheck
 
 > -- Find former co-workers. Employment History
-> -- Complaints. Customer disputes.
+> -- Complaints. Customer disputes
 > -- Scale and size of business
-> -- Qualifications. Investment licenses and registrations.
-> -- A portal, timeline, roadmap for legal and business disputes.
+> -- Qualifications. Investment licenses and registrations
+> -- A portal, timeline, roadmap for legal and business disputes
 
 ------------------------------------------------------------------------
 
 ![](images%20-%20storage/Find%20Current%20Employees.jpeg)
 
 > This search is for all actively registered brokers and investment advisers working for Stephens Inc CRD \#3496 in Little Rock.
+
+### Background a Campaign Contributor
+
+![](images%20-%20storage/Donor-Stephens.jpeg)
+
+> <https://www.opensecrets.org/donor-lookup/advanced>
+
+> This search is for contributors to Sen. Tom Cotton's campaign who put Stephens Inc. as their employer. Let's look up Warren A. Stephens, a frequent contributor.
+
+![](images%20-%20storage/Stephens%20employment.jpeg)
+
+> With this individual, who happens to be CEO of one of the biggest investment banks west of the Mississippi, BrokerCheck does not show any red flags: 35 years in the industry and no complaints.
+> What is useful is a review of his board memberships and outside activities. There's a lot of detail that would be useful for a local political reporter.
 
 ### Key things to look for in a broker’s record.
 
@@ -231,17 +244,29 @@ This may seem like a subtle point but this is how the regulators police the wors
 
 > Here's why you should check this regularly. In 2016, FINRA received:
 
-> -- 3070 Investor Complaints
-> -- 1434 New Disciplinary Actions Filed
-> -- $176 million in fines
-
-------------------------------------------------------------------------
+> -- 3,070 Investor Complaints
+> -- 1,434 New Disciplinary Actions Filed
+> -- $176 Million in Fines
 
 ### Search: Deborah Dickson Kelley
 
 > <http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/>
 
-*Search BrokerCheck for Deborah Dickson Kelley – CRD \#1179082*
+Search BrokerCheck for Deborah Dickson Kelley – CRD \#1179082
+
+![](images%20-%20storage/Deborah%20Dickson%20Kelley.png)
+
+*Let’s identify the red flags here.*
+
+<!----Four disclosures
+--11 firms in 32 years – barely stayed in one place more than three years
+--Barred -->
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+### Examples of stories
 
 ![](images%20-%20storage/Kelley%20article.png)
 
@@ -264,9 +289,15 @@ Here’s a quick example of how BrokerCheck can be useful to background a politi
 
 ### Check complaints:
 
+![](images%20-%20storage/Corzine%20Disclosure.png)
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
 ![](images%20-%20storage/Wash%20Post%20-%20Bales%20.jpeg)
 
-Here’s an example of a terrific Washington Post report that used BrokerCheck to add a new dimension on a breaking news story. In 2012, staff Sgt Robert Bales was charged in the massacre of 16 villagers in Afghanistan. The Washington Post alertly noted his background as a broker and ran his name through the database
+Here’s an example of a terrific Washington Post report that used BrokerCheck to add a new dimension on a breaking news story. In 2012, staff Sgt Robert Bales was charged in the massacre of 16 villagers in Afghanistan. The Washington Post alertly noted his background as a broker and ran his name through the database.
 
 ### Search: Robert Bales
 
@@ -292,7 +323,7 @@ Bales was charged with putting a customer into unsuitable investments. They clai
 
 ![](images%20-%20storage/Bales%20arbitration.png)
 
-BrokerCheck linked to the aribtration case file, which has 10 pages of detail about what Bales did. He and his firm were ordered to pay about $1.5 million, including punitive damages and attorneys fees, after being found for engaging in fraud.
+BrokerCheck linked to the aribtration case file, which has 10 pages of detail about what Bales did. He and his firm were ordered to pay about $1.5 million, including punitive damages and attorneys fees.
 
 ### Tool for Checking Ongoing Case: Office of Hearing Officers
 
@@ -319,7 +350,8 @@ The Office of Hearing Officers page allows a detailed search of case by violatio
 
 ![](images%20-%20storage/Not%20Perfect.jpeg)
 
-> There's plenty of criticism of BrokerCheck. --Limited search capability for disciplinary actions
+> There's plenty of criticism of BrokerCheck.
+> --Limited search capability for disciplinary actions
 > --Ability of brokers to scrub their histories
 
 Here's a 2014 study by the Public Investors Arbitration Bar Association
@@ -354,11 +386,13 @@ Reuters found some 48 firms had at least 30 percent of brokers with FINRA discip
 
 > <https://www.wsj.com/articles/no-headline-available-1394061989>
 
-Wall Street Journal reporters Jean Eaglesham and Rob Barry reported about problems and gaps in this database. In their March 5 2014 article, Eaglesham and Barry compared BrokerCheck records to state regulators’ records and court filings and found that more than 1,600 brokers had bankruptcies or criminal charges that weren’t reported by FINRA.
+Wall Street Journal reporters Jean Eaglesham and Rob Barry reported about problems and gaps in this database. In their March 5, 2014 article, Eaglesham and Barry compared BrokerCheck records to state regulators’ records and court filings and found that more than 1,600 brokers had bankruptcies or criminal charges that weren’t reported by FINRA.
 
 ![](images%20-%20storage/NYT%20expunge.png)
 
 > <https://dealbook.nytimes.com/2013/06/10/a-rise-in-requests-from-brokers-to-wipe-the-slate-clean/>
+
+Susan Antilla of The New York Times has done some excellent reporting on BrokerCheck problems.
 
 ------------------------------------------------------------------------
 
@@ -367,13 +401,17 @@ Wall Street Journal reporters Jean Eaglesham and Rob Barry reported about proble
 Arbitration
 ===========
 
-> Full-Text of Arbitration Filings: <http://finraawardsonline.finra.org/search.aspx?> --Material linked in BrokerCheck but worth searching.
+> Full-Text of Arbitration Filings: <http://finraawardsonline.finra.org/search.aspx?>
+> --Material linked in BrokerCheck but worth searching.
 
-> Finra Disciplinary Actions Database (FDA): <http://disciplinaryactions.finra.org/> --Material summarized in BrokerCheck, access to raw complaints
+> Finra Disciplinary Actions Database (FDA): <http://disciplinaryactions.finra.org/>
+> --Material summarized in BrokerCheck, access to raw complaints
 
 ### Key Questions
 
-> Arbitration cases. What happened? Employment history. Registration gaps; where were they? Brokers can petition to remove arbitration cases.
+> Arbitration cases. What happened?
+> Employment history. Registration gaps; where were they?
+> Brokers can petition to remove arbitration cases.
 
 ------------------------------------------------------------------------
 
@@ -410,7 +448,9 @@ Investment Adviser Public Disclosure
 
 ![](images%20-%20storage/rapert.jpeg)
 
-Arkansas State Senator Jason Rapert, chairman of the Insurance Committee, is active nationally on these issues. What is his story? He's employed at Rapert Financial & Associates, Inc. This is NOT listed in BrokerCheck but it is listed in IAPD database.
+Arkansas State Senator Jason Rapert, chairman of the Insurance Committee, is active nationally on these issues. What is his story?
+
+He's employed at Rapert Financial & Associates, Inc. This is not listed in BrokerCheck but it is listed in IAPD database.
 
 > <http://www.adviserinfo.sec.gov/IAPD/Content/Search/iapd_Search.aspx>
 
@@ -426,14 +466,18 @@ We see his business background. How does that play into the legislation he is sp
 
 ![](images%20-%20storage/Rapert%20insurance.jpeg)
 
-**So far, no smoking guns but this is an efficient way to gain insight about a state senator’s background.**
+### Questions After Reviewing IAPD:
+
+> --Discontinued Broker, Adviser Registration in August 2016. Why? What replaced that income?
+> --Relationship of Rapert Financial to insurance industry? Affect of deregulation bills on Rapert?
+> --What is Holy Ghost Ministries?
+
+So far, **no smoking guns** but this is an efficient way to gain insight about a state senator’s background.
 
 State Securities Regulators
 ===========================
 
 ![](images%20-%20storage/Chuck%20Norris.jpg) State securities regulators can kick some ass, but maybe not like Chuck Norris
-
-------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
@@ -445,6 +489,8 @@ State Securities Regulators
 > -- Great way to monitor local and national trends
 
 ![This chart shows the significant amount of enforcement activity at the state level.](images%20-%20storage/nasaa%20stats.jpeg)
+
+> <http://www.nasaa.org/regulatory-activity/enforcement-legal-activity/enforcement-directory/>
 
 ------------------------------------------------------------------------
 
@@ -465,11 +511,12 @@ State Securities Regulators
 ![](images%20-%20storage/CFP%20Discipline.png)
 
 > <http://www.cfp.net/about-cfp-board/ethics-enforcement/disciplined-individuals-by-state>
-> \#\#\#But the list stops in 2016.
+
+#### But the list stops in 2016.
 
 #### Search for a Certified Financial Planner
 
-\[ \](images - storage/CFP search.png
+![](images%20-%20storage/CFP%20search.png)
 
 #### Your Turn: Search Number of CFP Revocations in Maryland.
 
@@ -511,6 +558,9 @@ Questions?
 
 ##### School of Journalism and Strategic Media
 
-![](images%20-%20storage/Uark%20logo.png) &gt; <rswells@uark.edu> &gt; @rwells1961
+![](images%20-%20storage/Uark%20logo.png)
 
-#### end
+> <rswells@uark.edu>
+> @rwells1961
+
+##### --30--
