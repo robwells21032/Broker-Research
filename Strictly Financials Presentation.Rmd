@@ -14,8 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 #How to Dig Up Background on Brokers and Money Managers  
 ###Rob Wells, Ph.D. 
 ####University of Arkansas
-####School of Journalism and Strategic Media 
-***  
+####School of Journalism and Strategic Media    
 
 ![ ](images - storage/Uark logo.png)
   
@@ -492,14 +491,14 @@ So far, **no smoking guns** but this is an efficient way to gain insight about a
 ![ ](images - storage/Chuck Norris.jpg)
 State securities regulators can kick some ass, but maybe not like Chuck Norris  
 
----
 
 ***  
 
 ####North American Securities Administrators Association
 >
--- Always worth checking with state regulators  
--- Great way to monitor local and national trends  
+-- Always worth checking with state regulators    
+-- Great way to monitor local and national trends    
+
 
 ![This chart shows the significant amount of enforcement activity at the state level. ](images - storage/nasaa stats.jpeg)
 
@@ -557,8 +556,9 @@ State securities regulators can kick some ass, but maybe not like Chuck Norris
 #Questions?
 
 ####Rob Wells
-#####University of Arkansas 
-#####School of Journalism and Strategic Media
+#####University of Arkansas   
+#####School of Journalism and Strategic Media  
+
 ![ ](images - storage/Uark logo.png)
     
     

@@ -11,8 +11,6 @@ How to Dig Up Background on Brokers and Money Managers
 
 #### School of Journalism and Strategic Media
 
-------------------------------------------------------------------------
-
 ![](images%20-%20storage/Uark%20logo.png)
 
 ------------------------------------------------------------------------
@@ -478,8 +476,6 @@ State Securities Regulators
 ===========================
 
 ![](images%20-%20storage/Chuck%20Norris.jpg) State securities regulators can kick some ass, but maybe not like Chuck Norris
-
-------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
