@@ -16,13 +16,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ####University of Arkansas
 ####School of Journalism and Strategic Media    
 
-![ ](images - storage/Uark logo.png)
+![UARK](images - storage/Uark logo.png)  
   
-  
-      
-    
-    
-
 ---
 
 Today's Handout and Links
