@@ -316,6 +316,11 @@ Bales CRD\# 2765462
 ![](images%20-%20storage/Bales%20dispute.png)
 
 Bales was charged with putting a customer into unsuitable investments. They claimed a $852,000 loss.
+----------------------------------------------------------------------------------------------------
+
+### SEC Lookup Tool for Individuals with Court, Commission Orders
+
+> <https://www.sec.gov/litigations/sec-action-look-up>
 
 ### Look at the Arbitration Case
 
@@ -471,6 +476,13 @@ We see his business background. How does that play into the legislation he is sp
 > --What is Holy Ghost Ministries?
 
 So far, **no smoking guns** but this is an efficient way to gain insight about a state senator’s background.
+
+### Research Hedge Fund, Private Equity Fund Managers
+
+> --Many hedge fund advisers will have to register with the SEC under the Investment Advisers Act of 1940. The exception would be advisers who exclusively deal with venture capital funds or small hedge funds, those with less than $150 million in assets under management. If you want more details: <https://www.sec.gov/spotlight/dodd-frank/hedgefundadvisers.shtml> --Also, if the hedge fund managers have obtained their Finra certifications such as the series 7 and series 65 licenses, then they will be in the BrokerCheck database. But this isn’t always required.
+>
+> --Example: Clayton Andrew Cohn
+> ![](images%20-%20storage/Clayton%20Cohn%20IA.jpeg)
 
 State Securities Regulators
 ===========================
