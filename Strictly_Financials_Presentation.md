@@ -13,9 +13,11 @@ How to Dig Up Background on Brokers and Money Managers
 
 ![UARK](images%20-%20storage/Uark%20logo.png)
 
-------------------------------------------------------------------------
+### For The Donald W. Reynolds National Center for Business Journalism 2018 IRE Pre-Conference Workshop
 
-Today's Handout and Links
+![](images%20-%20storage/Reynolds%20Center%20logo.png)
+
+### Today's Handout and Links
 
 > <http://bit.do/biz-watchdogs>
 
@@ -318,10 +320,6 @@ Bales CRD\# 2765462
 Bales was charged with putting a customer into unsuitable investments. They claimed a $852,000 loss.
 ----------------------------------------------------------------------------------------------------
 
-### SEC Lookup Tool for Individuals with Court, Commission Orders
-
-> <https://www.sec.gov/litigations/sec-action-look-up>
-
 ### Look at the Arbitration Case
 
 ![](images%20-%20storage/Bales%20arbitration.png)
@@ -479,10 +477,20 @@ So far, **no smoking guns** but this is an efficient way to gain insight about a
 
 ### Research Hedge Fund, Private Equity Fund Managers
 
-> --Many hedge fund advisers will have to register with the SEC under the Investment Advisers Act of 1940. The exception would be advisers who exclusively deal with venture capital funds or small hedge funds, those with less than $150 million in assets under management. If you want more details: <https://www.sec.gov/spotlight/dodd-frank/hedgefundadvisers.shtml> --Also, if the hedge fund managers have obtained their Finra certifications such as the series 7 and series 65 licenses, then they will be in the BrokerCheck database. But this isn’t always required.
+> --Many hedge fund advisers will have to register with the SEC under the Investment Advisers Act of 1940. The exception would be advisers who exclusively deal with venture capital funds or small hedge funds, those with less than $150 million in assets under management. If you want more details: <https://www.sec.gov/spotlight/dodd-frank/hedgefundadvisers.shtml>
+>
+> --Also, if the hedge fund managers have obtained their Finra certifications such as the series 7 and series 65 licenses, then they will be in the BrokerCheck database. But this isn’t always required.
 >
 > --Example: Clayton Andrew Cohn
 > ![](images%20-%20storage/Clayton%20Cohn%20IA.jpeg)
+
+> --Cohn was sentenced to 52 months in prison and ordered to pay $1.6 million after pleading guilty to a count of wire fraud.
+
+> <https://www.sec.gov/litigation/admin/2017/ia-4683.pdf>
+
+### SEC Lookup Tool for Individuals with Court, Commission Orders
+
+> <https://www.sec.gov/litigations/sec-action-look-up>
 
 State Securities Regulators
 ===========================
