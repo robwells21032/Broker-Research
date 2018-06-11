@@ -20,8 +20,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ####University of Arkansas
 ####School of Journalism and Strategic Media  
 
-<center>
-
 
 <br>   
 

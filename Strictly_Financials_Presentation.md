@@ -14,7 +14,6 @@ How to Background on Brokers, Money Managers
 
 #### School of Journalism and Strategic Media
 
-<center>
 <br>
 
 <center>
