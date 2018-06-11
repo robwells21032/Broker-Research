@@ -10,25 +10,49 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+<center>
+
 #Business Watchdogs:   
-#How to Dig Up Background on Brokers and Money Managers  
+#How to Background on Brokers, Money Managers  
+<br>   
+
 ###Rob Wells, Ph.D. 
 ####University of Arkansas
-####School of Journalism and Strategic Media    
+####School of Journalism and Strategic Media  
 
-![UARK](images - storage/Uark logo.png)  
+<center>
+
+
+<br>   
+
+<center>
+
+![UARK](images - storage/UARK logo NEW.jpg)  
+<center>
+
+<br>   
+
+<center>
+
+![](images - storage/Reynolds logo2.jpg)   
+
+<center>
+
 
 ###For The Donald W. Reynolds National Center for Business Journalism 2018 IRE Pre-Conference Workshop
 
-![](images - storage/Reynolds Center logo.png)
+<br>  
+
+**Hotel Wifi: TK TK TK **  
+
+**Password: TK TK TK **   
+
+  
+**Today's Presentation**
+
+# <http://bit.do/biz-watchdogs>
 
 
-###Today's Handout and Links
-
-> <http://bit.do/biz-watchdogs>
-
-***  
-***  
 ---
 
 ##Your Database Sherpa
@@ -51,20 +75,12 @@ I used a version of BrokerCheck, along with SEC and state securities regulators 
 #Today’s Task
 Find news, research politicians, campaign contributors, etc. using databases of brokers, financial advisers, investment professionals
 
-These are all free databases
+These are all free databases   
 
----
-
-
-```{r}
-
-```
+<br>   
 
 
-
-----
-
-![Smoking Gun. Credit: Mike Licht, NotionsCapital.com ](images - storage/smoking gun.jpg)  
+![Credit- Mike Licht, NotionsCapital.com](images - storage/smoking gun.jpg)  
 
 ---
 ---
@@ -85,7 +101,8 @@ Chances are, many of your readers aren’t using this. A 2009 study (sponsored b
 ###FINRA BrokerCheck 
 ![ ](images - storage/BrokerCheck.jpeg) 
 ---
-> <http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/>  
+> [BrokerCheck: "CNTL" + click for a New Tab](http://www.finra.org/Investors/ToolsCalculators/BrokerCheck){target="_blank"}
+
 
 --Records on 637,000 current and former professionals, 4,700 firms. 
 
@@ -95,7 +112,8 @@ Chances are, many of your readers aren’t using this. A 2009 study (sponsored b
 ###SEC’s Investment Adviser Public Disclosure (IAPD)
 ![ ](images - storage/Investment Advisers.jpeg) 
 ---
-> <http://www.adviserinfo.sec.gov/IAPD/Content/Search/iapd_Search.aspx>  
+> [IAPD Database: "CNTL" + click for a New Tab](http://www.adviserinfo.sec.gov/IAPD/Content/Search/iapd_Search.aspx){target="_blank"}
+ 
 
 --441,000 professionals, 45,700 firms
 
@@ -107,7 +125,8 @@ Chances are, many of your readers aren’t using this. A 2009 study (sponsored b
 ###North American Securities Administrators Association (NASAA)
 ![ ](images - storage/NASAA.jpeg)
 ---
-> <http://www.nasaa.org/regulatory-activity/enforcement-legal-activity/enforcement-directory/>  
+> [NASAA Database: "CNTL" + click for a New Tab](http://www.nasaa.org/regulatory-activity/enforcement-legal-activity/enforcement-directory/){target="_blank"}
+
 
 --50 state regulators
 
@@ -118,7 +137,7 @@ Chances are, many of your readers aren’t using this. A 2009 study (sponsored b
 ###Certified Financial Planner Board of Standards Inc. (CFP)
 ![ ](images - storage/CFP.jpeg)
 ---
-> <http://www.cfp.net/about-cfp-board/ethics-enforcement/disciplined-individuals-by-state>  
+> [CFP Records: "CNTL" + click for a New Tab](http://www.cfp.net/about-cfp-board/ethics-enforcement/disciplined-individuals-by-state){target="_blank"}
 
 --69,000 professionals
 
@@ -139,13 +158,21 @@ The BrokerCheck data is dervied from the Central Registration Depository, which 
 ###How to Search It
 ![ ](images - storage/Starting BrokerCheck Search.jpeg) 
 
----
+<br>
+
 ![ ](images - storage/Get Full Name .jpeg) 
 ---
 
+<br>
+
+<br>
 
 ###Search: Bernard Madoff
-> <http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/>
+> [BrokerCheck: "CNTL" + click for a New Tab](http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/){target="_blank"}
+
+<br>
+
+<br>
 
 ---
 
@@ -157,9 +184,20 @@ Credit: Flickr user Petezin
 ![ ](images - storage/Madoff case detail.jpeg)
 ---
 
+<br>   
+
+<br>   
+
 
 ###Search: Jeffrey Brett Rubin
-> <http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/>  
+
+> [Search BrokerCheck: "CNTL" + click for a New Tab](http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/){target="_blank"}
+
+
+
+<br>   
+
+<br>   
 
 ---
 
@@ -172,6 +210,12 @@ This may seem like a subtle point but this is how the regulators police the wors
 
 > ----------------------------------------------------------------
 >
+
+<br>   
+
+<br>
+
+
 
 ###Key Items In BrokerCheck
 
@@ -192,6 +236,12 @@ This may seem like a subtle point but this is how the regulators police the wors
 -- Findings and sanctions imposed in FINRA Decisions may be increased, decreased, modified or reversed   
 
 
+<br>   
+
+<br>
+
+
+
 ***  
 ***  
 
@@ -208,15 +258,29 @@ This may seem like a subtle point but this is how the regulators police the wors
 
 ![ ](images - storage/Find Current Employees.jpeg)
 
+<br> 
+
+
 > This search is for all actively registered brokers and investment advisers working for Stephens Inc CRD #3496 in Little Rock.
 
-###Background a Campaign Contributor
+<br>   
+
+<br>    
+
+
+###Background a Campaign Contributor  
+
+<br>   
+
 
 ![ ](images - storage/Donor-Stephens.jpeg)
 
-> <https://www.opensecrets.org/donor-lookup/advanced>   
+> [Search OpenSecrets database: "CNTL" + click for a New Tab](https://www.opensecrets.org/donor-lookup/advanced){target="_blank"}
 
-> This search is for contributors to Sen. Tom Cotton's campaign who put Stephens Inc. as their employer. Let's look up Warren A. Stephens, a frequent contributor.  
+
+
+> This search is for contributors to Sen. Tom Cotton's campaign who put Stephens Inc. as their employer. 
+> Let's switch back to BrokerCheck and look up Warren A. Stephens, a frequent contributor.  
 
 ![ ](images - storage/Stephens employment.jpeg)  
 
@@ -225,7 +289,7 @@ This may seem like a subtle point but this is how the regulators police the wors
 What is useful is a review of his board memberships and outside activities. There's a lot of detail that would be useful for a local political reporter. 
 
 
-###Key things to look for in a broker’s record.  
+###Key things in a broker’s record.  
 
 >**Unsuitable Investments** – sale of investments that are more risky than sought by the customer  
 
@@ -244,23 +308,31 @@ What is useful is a review of his board memberships and outside activities. Ther
 >Check the **Refine Results Tab** on the main screen of BrokerCheck.  
 This leads to additional search options. Here, we are searching for all barred brokers who worked at some point for Wells Fargo Securities.
 
----
-![ ](images - storage/Barred Brokers2.jpeg)
+
+###Barred Brokers   
 
 >Outside of the BrokerCheck system, there are a number of important resources that can speed your search. Here's an alphabetical list of barred brokers.
 
-> <https://www.finra.org/industry/individuals-barred-finra-a>
+![ ](images - storage/Barred Brokers2.jpeg)
 
-The individuals listed above have a FINRA bar in effect which means FINRA has permanently prohibited them from association with any member in any capacity. The list comprises individuals who were associated with a FINRA registered firm on or after FINRA launched Web CRD on August 16, 1999.
+> [List of Barred Brokers: "CNTL" + click for a New Tab](https://www.finra.org/industry/individuals-barred-finra-a){target="_blank"}
 
----
+
+> The individuals listed above have a FINRA bar in effect which means FINRA has permanently prohibited them from association with any member in any capacity. The list comprises individuals who were associated with a FINRA registered firm on or after FINRA launched Web CRD on August 16, 1999.  
+
+###Monthly Actions
+
+<br>
+
+
 ![ ](images - storage/Monthly Disciplinary Actions.jpeg)
 
-> Beat reporters should be checking the monthly disciplinary actions release for action in their states. February’s release was 58 pages. 
+> Beat reporters should be checking the monthly disciplinary actions release for action in their states. May’s release was 32 pages. 
 
-> <https://www.finra.org/sites/default/files/publication_file/February_2018_Disciplinary_Actions.pdf>
+> [Monthly Actions: "CNTL" + click for a New Tab](https://www.finra.org/industry/disciplinary-actions){target="_blank"}
 
->Here's why you should check this regularly. In 2016, FINRA received:   
+
+>Here's why you should *check this regularly*. In 2016, FINRA received:   
 
 >
 -- 3,070 Investor Complaints    
@@ -268,7 +340,7 @@ The individuals listed above have a FINRA bar in effect which means FINRA has pe
 -- $176 Million in Fines    
 
 ###Search: Deborah Dickson Kelley
-> <http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/>  
+> [Search BrokerCheck: "CNTL" + click for a New Tab](http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/){target="_blank"}
 
 Search BrokerCheck for Deborah Dickson Kelley – CRD #1179082
 
@@ -288,10 +360,19 @@ Search BrokerCheck for Deborah Dickson Kelley – CRD #1179082
 ![ ](images - storage/Kelley article.png)
 
 
-Here is an example of news you can dig out by reading the disciplined broker release every month. I did not see general news coverage of this in Lexis, btw – only trade press coverage. This is a significant case involving the NY State Common Retirement Fund.
+Here is an example of news you can dig out by reading the disciplined broker release every month. I did not see general news coverage of this in Lexis, btw – only trade press coverage. This is a significant case involving the NY State Common Retirement Fund. This is a good example of accountability reporting in the trade press, the subject of my academic research.
+
+<br>
+
+<br>
+
+
 
 ##Search: Jon Corzine
-> <http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/>  
+> [Search BrokerCheck: "CNTL" + click for a New Tab](http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/){target="_blank"}
+
+<br>  
+
 
 ---
 
@@ -302,11 +383,11 @@ Here is an example of news you can dig out by reading the disciplined broker rel
 Here’s a quick example of how BrokerCheck can be useful to background a politician. The former New Jersey governor had a broker’s license.  
 
 
-###Check the employment history:
+####Check the employment history:
 
 ![ ](images - storage/Corzine Record.png)
 
-###Check complaints:  
+####Check complaints:  
 
 ![ ](images - storage/Corzine Disclosure.png)
 
@@ -318,37 +399,46 @@ Here’s a quick example of how BrokerCheck can be useful to background a politi
 
 Here’s an example of a terrific Washington Post report that used BrokerCheck to add a new dimension on a breaking news story. In 2012, staff Sgt Robert Bales was charged in the massacre of 16 villagers in Afghanistan. The Washington Post alertly noted his background as a broker and ran his name through the database.
 
-###Search: Robert Bales
-> <http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/>  
+<br>
+
+
+####Search: Robert Bales
+> [Search BrokerCheck: "CNTL" + click for a New Tab](http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/){target="_blank"}
 
 Bales CRD# 2765462
 
-***  
-***  
-###Contact Former Co-Workers: Work History
+<br>  
+
+####Contact Former Co-Workers: Work History
 
 ![ ](images - storage/Bales work history.png)
 
 
-###Examine Complaints
+####Examine Complaints
 
 ![ ](images - storage/Bales dispute.png)
 
-Bales was charged with putting a customer into unsuitable investments. They claimed a $852,000 loss.
----
 
-###Look at the Arbitration Case
+> Bales was charged with putting a customer into unsuitable investments. They claimed a $852,000 loss.
+
+####Look at the Arbitration Case
 ![ ](images - storage/Bales arbitration.png)
 
-BrokerCheck linked to the aribtration case file, which has 10 pages of detail about what Bales did. He and his firm were ordered to pay about $1.5 million, including punitive damages and attorneys fees.
+> BrokerCheck linked to the aribtration case file, which has 10 pages of detail about what Bales did. Bales and his firm were ordered to pay about $1.5 million, including punitive damages and attorneys fees.
+
+<br>
+
+<br>
+***  
+***
 
 ###Tool for Checking Ongoing Case: Office of Hearing Officers
 ![ ](images - storage/Bales arbitration.png)
 
 The Office of Hearing Officers page allows a detailed search of case by violation of particular FINRA rules. This can be a useful research tool to scoop up details about an ongoing case.
 
+> [Search Office of Hearing Officers: "CNTL" + click for a New Tab](http://www.finra.org/industry/oho){target="_blank"}
 
-> <http://www.finra.org/industry/oho>
 
 ***  
 ***   
@@ -356,7 +446,7 @@ The Office of Hearing Officers page allows a detailed search of case by violatio
 ###Check the Locals  
 
 ![ ](images - storage/Check Locals.png)
-> <http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/>  
+> [Search BrokerCheck: "CNTL" + click for a New Tab](http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/){target="_blank"}
 
 > Use the advanced search functions to search with your hometown in the box and see how many brokers kick up with disclosures.  
 Story idea: Grab this list and see how many match a campaign contributors list.
@@ -365,7 +455,12 @@ Story idea: Grab this list and see how many match a campaign contributors list.
 ***  
 ![ ](images - storage/Not Perfect.jpeg)
 
-> There's plenty of criticism of BrokerCheck.  
+<br>  
+
+<br>  
+
+
+> There's **plenty of criticism** of BrokerCheck.  
 --Limited search capability for disciplinary actions    
 --Ability of brokers to scrub their histories    
 
@@ -373,7 +468,8 @@ Story idea: Grab this list and see how many match a campaign contributors list.
 
 Here's a 2014 study by the Public Investors Arbitration Bar Association 
 
-> <https://piaba.org/sites/default/files/newsroom/2014-03/PIABA%20Press%20Release%20(March%206,%202014).pdf>
+> [PIABA Critique of BrokerCheck: "CNTL" + click for a New Tab](https://piaba.org/sites/default/files/newsroom/2014-03/PIABA%20Press%20Release%20(March%206,%202014){target="_blank"}
+
 
 One finding: When a broker-dealer fired a registered broker, BrokerCheck reports excluded the reason for the termination and other commentary regarding the termination, although this information is available from states.  
 
@@ -387,7 +483,7 @@ Finra disputed this, saying it will keep details that “implicate investor prot
 
 An excellent 2017 Reuters investigation that scraped the FINRA data and analyzed it.  
 
-> <https://www.reuters.com/article/us-usa-finra-brokers-specialreport/special-report-regulator-blocks-public-scrutiny-of-firms-with-tainted-brokers-idUSKBN19327T>  
+> [Reuters Series on BrokerCheck: "CNTL" + click for a New Tab](https://www.reuters.com/article/us-usa-finra-brokers-specialreport/special-report-regulator-blocks-public-scrutiny-of-firms-with-tainted-brokers-idUSKBN19327T){target="_blank"}> 
 
 
 Reuters found some 48 firms had at least 30 percent of brokers with FINRA disciplinary flags on their records. Reuters examined the 12 most serious incidents among the 23 that FINRA requires brokers to disclose. By comparison, 9 percent of brokers industry-wide have at least one of those 12 FINRA flags on their record.
@@ -399,27 +495,27 @@ Reuters found some 48 firms had at least 30 percent of brokers with FINRA discip
 
 ![ ](images - storage/wsj expunge.png)
 
-> <https://www.wsj.com/articles/no-headline-available-1394061989>
+> [WSJ - Red Flags Not Disclosed: "CNTL" + click for a New Tab](https://www.wsj.com/articles/no-headline-available-1394061989){target="_blank"}
+
 
 Wall Street Journal reporters Jean Eaglesham and Rob Barry reported about problems and gaps in this database. In their March 5, 2014 article, Eaglesham and Barry compared BrokerCheck records to state regulators’ records and court filings and found that more than 1,600 brokers had bankruptcies or criminal charges that weren’t reported by FINRA.
 
 
 ![ ](images - storage/NYT expunge.png)
 
-> <https://dealbook.nytimes.com/2013/06/10/a-rise-in-requests-from-brokers-to-wipe-the-slate-clean/>
+> [CFP Records: "CNTL" + click for a New Tab](https://dealbook.nytimes.com/2013/06/10/a-rise-in-requests-from-brokers-to-wipe-the-slate-clean/){target="_blank"}
 
-Susan Antilla of The New York Times has done some excellent reporting on BrokerCheck problems.
+> Susan Antilla of The New York Times has done some excellent reporting on BrokerCheck problems.
 
 ***  
 ***  
 #Arbitration
 
->Full-Text of Arbitration Filings:
-> <http://finraawardsonline.finra.org/search.aspx?>   
+> [Full-Text of Arbitration Filings: "CNTL" + click for a New Tab](http://finraawardsonline.finra.org/search.aspx?){target="_blank"}
 --Material linked in BrokerCheck but worth searching.
 
->Finra Disciplinary Actions Database (FDA):
-> <http://disciplinaryactions.finra.org/>   
+
+> [Finra Disciplinary Actions Database (FDA): "CNTL" + click for a New Tab](http://disciplinaryactions.finra.org/){target="_blank"}
 --Material summarized in BrokerCheck, access to raw complaints
 
 ###Key Questions
@@ -431,7 +527,7 @@ Brokers can petition to remove arbitration cases.
 #Investment Adviser Public Disclosure
 ![ ](images - storage/Investment Advisers.jpeg) 
 
-> <http://www.adviserinfo.sec.gov/IAPD/Content/Search/iapd_Search.aspx>  
+> [Search Investment Adviser database: "CNTL" + click for a New Tab](http://www.adviserinfo.sec.gov/IAPD/Content/Search/iapd_Search.aspx){target="_blank"}
 
 >What Is An Investment Adviser?
 >
@@ -460,25 +556,37 @@ E. None of the above
 
 ![ ](images - storage/rapert.jpeg)
 
+<br>  
+
+
 Arkansas State Senator Jason Rapert, chairman of the Insurance Committee, is active nationally on these issues. 
 What is his story?   
 
 He's employed at Rapert Financial & Associates, Inc. This is not listed in BrokerCheck but it is listed in IAPD database. 
 
-> <http://www.adviserinfo.sec.gov/IAPD/Content/Search/iapd_Search.aspx>  
+> [Search Investment Adviser database: "CNTL" + click for a New Tab](http://www.adviserinfo.sec.gov/IAPD/Content/Search/iapd_Search.aspx){target="_blank"}
+
+
+<br>
+
 
 ![ ](images - storage/Rapert IAPD search.jpeg)
 
 ![ ](images - storage/Rapert IAPD2.jpeg)
 
-***  
-***  
-We see his business background. How does that play into the legislation he is sponsoring?
+<br>
+
+<br> 
+
+
+
+ 
+> We see his business background. How does that play into the legislation he is sponsoring?
 
 ![ ](images - storage/Rapert insurance.jpeg)
 
 
-### Questions After Reviewing IAPD:
+#### Questions After Reviewing IAPD:
 >
 --Discontinued Broker, Adviser Registration in August 2016. Why? What replaced that income?  
 --Relationship of Rapert Financial to insurance industry? Affect of deregulation bills on Rapert?  
@@ -502,11 +610,28 @@ So far, **no smoking guns** but this is an efficient way to gain insight about a
 
 ### SEC Lookup Tool for Individuals with Court, Commission Orders
 
-> <https://www.sec.gov/litigations/sec-action-look-up>
- 
+> [SEC Action Look-Up: "CNTL" + click for a New Tab](https://www.sec.gov/litigations/sec-action-look-up){target="_blank"}
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+***   
 
 #State Securities Regulators
-![ ](images - storage/Chuck Norris.jpg)
+
+
+<br>
+
+<img src="images - storage/Chuck Norris.jpg" width="300" height="500" />
+
+<br>
+
 State securities regulators can kick some ass, but maybe not like Chuck Norris  
 
 
@@ -520,11 +645,17 @@ State securities regulators can kick some ass, but maybe not like Chuck Norris
 
 ![This chart shows the significant amount of enforcement activity at the state level. ](images - storage/nasaa stats.jpeg)
 
-> <http://www.nasaa.org/regulatory-activity/enforcement-legal-activity/enforcement-directory/>  
+> [NASAA Directory: "CNTL" + click for a New Tab](http://www.nasaa.org/regulatory-activity/enforcement-legal-activity/enforcement-directory/){target="_blank"}
+ 
+<br>
 
+
+<br>
+
+
+ 
 ***  
-***  
-###Certified Financial Planner Board of Standards Inc. (CFP)
+###Certified Financial Planner Board of Standards Inc. (CFP)  
 ![ ](images - storage/CFP.jpeg)
 
 >
@@ -537,7 +668,13 @@ State securities regulators can kick some ass, but maybe not like Chuck Norris
 ####CFP Board website lists revoked planners by state
 ![ ](images - storage/CFP Discipline.png)
 
-> <http://www.cfp.net/about-cfp-board/ethics-enforcement/disciplined-individuals-by-state>  
+
+> [CFP Records: "CNTL" + click for a New Tab](http://www.cfp.net/about-cfp-board/ethics-enforcement/disciplined-individuals-by-state){target="_blank"}
+
+<br>
+
+<br>
+
 
 ####But the list stops in 2016.
 
@@ -545,10 +682,11 @@ State securities regulators can kick some ass, but maybe not like Chuck Norris
 ![ ](images - storage/CFP search.png)
 
 ####Your Turn: Search Number of CFP Revocations in Maryland.
-> <http://www.cfp.net/about-cfp-board/ethics-enforcement/disciplined-individuals-by-state>  
+> [CFP Records by State: "CNTL" + click for a New Tab](http://www.cfp.net/about-cfp-board/ethics-enforcement/disciplined-individuals-by-state){target="_blank"}
+
 
 ####Select one of those individuals with a revoked designation
-> <http://www.letsmakeaplan.org/choose-a-cfp-professional/find-a-cfp-professional?#oname>
+> [CFP Records By Name: "CNTL" + click for a New Tab](http://www.letsmakeaplan.org/choose-a-cfp-professional/find-a-cfp-professional?#oname){target="_blank"}
 
 
 ![ ](images - storage/Greeves.png)
@@ -558,12 +696,18 @@ State securities regulators can kick some ass, but maybe not like Chuck Norris
 ![ ](images - storage/Greeves detail.png)
 
 ***  
-***  
 
-####Alphabet Soup: Financial Professional Titles
+<br>
+
+
+<br>
+
+
+
+###Alphabet Soup: Financial Professional Titles
 > “The requirements for obtaining and using these titles vary widely, from rigorous to nothing at all.” -- SEC
 
-> <http://www.finra.org/investors/accredited-designations>
+> [Financial Designations: "CNTL" + click for a New Tab](http://www.finra.org/investors/accredited-designations){target="_blank"}
 
 > Many state securities and insurance regulators do not allow financial professionals to use a designation—in particular a "senior" designation—unless it has been accredited by either the American National Standards Institute or the National Commission for Certifying Agencies.  
 
@@ -573,16 +717,21 @@ State securities regulators can kick some ass, but maybe not like Chuck Norris
 
 #Questions?
 
-####Rob Wells
-#####University of Arkansas   
-#####School of Journalism and Strategic Media  
+###Rob Wells, Ph.D. 
+####University of Arkansas
+####School of Journalism and Strategic Media  
 
-![ ](images - storage/Uark logo.png)
-    
-    
 > rswells@uark.edu   
-> @rwells1961   
+> @rwells1961  
 
+<br>   
+
+![](images - storage/UARK logo NEW.jpg)  
+
+<br>   
+
+
+![](images - storage/Reynolds logo2.jpg)   
 
 
 ##### --30--
