@@ -19,6 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ####School of Journalism and Strategic Media  
 
 > rswells@uark.edu   
+
 > @rwells1961  
 
 <br>   
@@ -33,28 +34,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br>   
 
-###Rob Wells, Ph.D. 
-####University of Arkansas
-####School of Journalism and Strategic Media  
 
 
-<br>   
-
-<center>
-
-![UARK](images - storage/UARK logo NEW.jpg)  
-<center>
-
-<br>   
-
-<center>
-
-![](images - storage/Reynolds logo2.jpg)   
-
-<center>
-
-
-###For The Donald W. Reynolds National Center for Business Journalism 2018 IRE Pre-Conference Workshop
+##For The Donald W. Reynolds National Center for Business Journalism 2018 IRE Pre-Conference Workshop
 
 <br>  
 

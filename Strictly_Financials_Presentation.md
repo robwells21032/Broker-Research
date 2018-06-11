@@ -12,6 +12,7 @@ How to Background on Brokers, Money Managers
 #### School of Journalism and Strategic Media
 
 > <rswells@uark.edu>
+
 > @rwells1961
 
 <br>
@@ -24,24 +25,8 @@ How to Background on Brokers, Money Managers
 
 <br>
 
-### Rob Wells, Ph.D.
-
-#### University of Arkansas
-
-#### School of Journalism and Strategic Media
-
-<br>
-
-<center>
-![UARK](images%20-%20storage/UARK%20logo%20NEW.jpg)
-<center>
-<br>
-
-<center>
-![](images%20-%20storage/Reynolds%20logo2.jpg)
-
-<center>
-### For The Donald W. Reynolds National Center for Business Journalism 2018 IRE Pre-Conference Workshop
+For The Donald W. Reynolds National Center for Business Journalism 2018 IRE Pre-Conference Workshop
+---------------------------------------------------------------------------------------------------
 
 <br>
 
