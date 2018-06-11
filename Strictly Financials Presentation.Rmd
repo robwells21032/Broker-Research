@@ -13,6 +13,24 @@ knitr::opts_chunk$set(echo = FALSE)
 #Business Watchdogs:   
 #How to Background on Brokers, Money Managers  
 
+
+###Rob Wells, Ph.D. 
+####University of Arkansas
+####School of Journalism and Strategic Media  
+
+> rswells@uark.edu   
+> @rwells1961  
+
+<br>   
+
+![](images - storage/UARK logo NEW.jpg)  
+
+<br>   
+
+
+![](images - storage/Reynolds logo2.jpg)   
+
+
 <br>   
 
 ###Rob Wells, Ph.D. 

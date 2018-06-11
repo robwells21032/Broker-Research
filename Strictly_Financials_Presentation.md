@@ -5,6 +5,23 @@ Business Watchdogs:
 How to Background on Brokers, Money Managers
 ============================================
 
+### Rob Wells, Ph.D.
+
+#### University of Arkansas
+
+#### School of Journalism and Strategic Media
+
+> <rswells@uark.edu>
+> @rwells1961
+
+<br>
+
+![](images%20-%20storage/UARK%20logo%20NEW.jpg)
+
+<br>
+
+![](images%20-%20storage/Reynolds%20logo2.jpg)
+
 <br>
 
 ### Rob Wells, Ph.D.
