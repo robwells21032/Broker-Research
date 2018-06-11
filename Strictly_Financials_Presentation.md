@@ -1,5 +1,4 @@
 
-<center>
 Business Watchdogs:
 ===================
 

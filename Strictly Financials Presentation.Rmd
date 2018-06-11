@@ -10,10 +10,9 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<center>
-
 #Business Watchdogs:   
 #How to Background on Brokers, Money Managers  
+
 <br>   
 
 ###Rob Wells, Ph.D. 
