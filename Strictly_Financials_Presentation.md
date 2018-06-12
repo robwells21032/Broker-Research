@@ -311,7 +311,39 @@ This may seem like a subtle point but this is how the regulators police the wors
 > -- 1,434 New Disciplinary Actions Filed
 > -- $176 Million in Fines
 
-### Search: Deborah Dickson Kelley
+#### May 2018 Release: Actions Against 19 Florida Firms, Professionals
+
+> See Pg. 9, Miami Broker Barred
+
+<br>
+
+![](images%20-%20storage/Meier%20-%20FINRA%20release.jpeg)
+
+> Meier was barred from the industry, charged with making 1,290 unauthorized trades in six of his customers' accounts. He pocketed $265,000 in commissions while two customers lost $78,000, FINRA said. Another four customers suffered unrealized losses of about $1.4 million, according to FINRA. His employer has paid out some $2 million in settlements.
+
+<br>
+
+#### Search: Thomas Alan Meier (CRD \#\#1146044, Miami, Florida)
+
+> <a href="http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/" target="_blank">Search BrokerCheck: &quot;CNTL&quot; + click for a New Tab</a>
+
+<br>
+
+> <a href="https://brokercheck.finra.org/individual/summary/1146044" target="_blank">Detail from Meier case: &quot;CNTL&quot; + click for a New Tab</a>
+
+<br>
+
+#### Press Coverage of Case
+
+![](images%20-%20storage/Meier%20Press%20coverage.jpeg)
+
+> Several trade publications and industry blogs picked up the story. I did not see general news coverage in my search of Lexis.
+
+> This is the type of accountability beat reporting we should be doing on a regular basis.
+
+<br>
+
+### Other Examples - Search: Deborah Dickson Kelley
 
 > <a href="http://www.finra.org/Investors/ToolsCalculators/BrokerCheck/" target="_blank">Search BrokerCheck: &quot;CNTL&quot; + click for a New Tab</a>
 
@@ -675,6 +707,7 @@ Questions?
 #### School of Journalism and Strategic Media
 
 > <rswells@uark.edu>
+
 > @rwells1961
 
 <br>
