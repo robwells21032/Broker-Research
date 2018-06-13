@@ -30,9 +30,11 @@ For The Donald W. Reynolds National Center for Business Journalism 2018 IRE Pre-
 
 <br>
 
-**Hotel Wifi: TK TK TK **
+**Hotel Wifi: IRE18 **
+======================
 
-**Password: TK TK TK **
+**Password: InvestigateTV **
+============================
 
 **Today's Presentation**
 
@@ -148,14 +150,11 @@ The BrokerCheck data is dervied from the Central Registration Depository, which 
 
 ### How to Search It
 
-![](images%20-%20storage/Starting%20BrokerCheck%20Search.jpeg)
+> Having a CRD number speeds your search. CRDs are available on complaints, aribtration records Searching by Zip Code can help survey activity in your community For example, a search of my Fayetteville, Ark. zip code - 72701 - brings up 411 brokers in town and surrounding cities.
 
-<br>
+![](images%20-%20storage/BrokerCheck.jpeg)
 
-![](images%20-%20storage/Get%20Full%20Name%20.jpeg)
----------------------------------------------------
-
-<br>
+------------------------------------------------------------------------
 
 <br>
 
@@ -283,7 +282,7 @@ This may seem like a subtle point but this is how the regulators police the wors
 ![](images%20-%20storage/Barred%20Brokers.jpeg)
 
 > Check the **Refine Results Tab** on the main screen of BrokerCheck.
-> This leads to additional search options. Here, we are searching for all barred brokers who worked at some point for Wells Fargo Securities.
+> This leads to additional search options. Here, we are searching for all barred brokers who worked at some point for Wells Fargo Securities, CRD \#126292.
 
 ### Barred Brokers
 
@@ -301,15 +300,25 @@ This may seem like a subtle point but this is how the regulators police the wors
 
 ![](images%20-%20storage/Monthly%20Disciplinary%20Actions.jpeg)
 
-> Beat reporters should be checking the monthly disciplinary actions release for action in their states. May’s release was 32 pages.
+------------------------------------------------------------------------
+
+<br>
 
 > <a href="https://www.finra.org/industry/disciplinary-actions" target="_blank">Monthly Actions: &quot;CNTL&quot; + click for a New Tab</a>
 
-> Here's why you should *check this regularly*. In 2016, FINRA received:
+<br>
 
-> -- 3,070 Investor Complaints
-> -- 1,434 New Disciplinary Actions Filed
-> -- $176 Million in Fines
+------------------------------------------------------------------------
+
+> Here's why you should *check this regularly*. In 2017, FINRA received:
+
+> -- 3,002 Investor Complaints
+> -- 1,369 New Disciplinary Actions Filed
+> -- $65 Million in Fines
+
+<br>
+
+> Beat reporters should be checking the monthly disciplinary actions release for action in their states. May’s release was 32 pages.
 
 #### May 2018 Release: Actions Against 19 Florida Firms, Professionals
 
@@ -466,7 +475,7 @@ The Office of Hearing Officers page allows a detailed search of case by violatio
 
 Here's a 2014 study by the Public Investors Arbitration Bar Association
 
-> \[PIABA Critique of BrokerCheck: "CNTL" + click for a New Tab\](<https://piaba.org/sites/default/files/newsroom/2014-03/PIABA%20Press%20Release%20(March%206,%202014)%7Btarget>="\_blank"}
+> <a href="https://piaba.org/in-the-media/piaba-warning-finra-withholds-critical-red-flag-information-broker-background-check" target="_blank">PIABA Critique of BrokerCheck: &quot;CNTL&quot; + click for a New Tab</a>
 
 One finding: When a broker-dealer fired a registered broker, BrokerCheck reports excluded the reason for the termination and other commentary regarding the termination, although this information is available from states.
 
@@ -511,7 +520,7 @@ Wall Street Journal reporters Jean Eaglesham and Rob Barry reported about proble
 Arbitration
 ===========
 
-> <a href="http://finraawardsonline.finra.org/search.aspx?" target="_blank">Full-Text of Arbitration Filings: &quot;CNTL&quot; + click for a New Tab</a> --Material linked in BrokerCheck but worth searching.
+> <a href="http://www.finra.org/arbitration-and-mediation/arbitration-awards" target="_blank">Full-Text of Arbitration Filings: &quot;CNTL&quot; + click for a New Tab</a> --Material linked in BrokerCheck but worth searching.
 
 > <a href="http://disciplinaryactions.finra.org/" target="_blank">Finra Disciplinary Actions Database (FDA): &quot;CNTL&quot; + click for a New Tab</a> --Material summarized in BrokerCheck, access to raw complaints
 
