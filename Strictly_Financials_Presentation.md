@@ -30,11 +30,11 @@ For The Donald W. Reynolds National Center for Business Journalism 2018 IRE Pre-
 
 <br>
 
-**Hotel Wifi: IRE18 **
-======================
+Hotel Wifi: IRE18
+=================
 
-**Password: InvestigateTV **
-============================
+Password: InvestigateTV
+=======================
 
 **Today's Presentation**
 

@@ -40,9 +40,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <br>  
 
-# **Hotel Wifi: IRE18 **  
+# Hotel Wifi: IRE18   
 
-# **Password: InvestigateTV **   
+# Password: InvestigateTV   
 
   
 **Today's Presentation**
